@@ -1,0 +1,15 @@
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\Jayvee.Final2.csprojAssemblyReference.cache
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\App.g.cs
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\Jayvee.Final2_MarkupCompile.cache
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\Jayvee.Final2_MarkupCompile.lref
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\bin\Debug\Jayvee.Final2.exe.config
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\bin\Debug\Jayvee.Final2.exe
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\bin\Debug\Jayvee.Final2.pdb
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\Jayvee.Final2.g.resources
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\Jayvee.Final2.Properties.Resources.resources
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\Jayvee.Final2.csproj.GenerateResource.cache
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\Jayvee.Final2.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\Jayvee.Final2.exe
+C:\Users\COMLABPC6\source\repos\Jayvee.Final2\Jayvee.Final2\obj\Debug\Jayvee.Final2.pdb
